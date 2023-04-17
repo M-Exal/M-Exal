@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @M-Exal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in informatic
+- 🌱 I’m currently learning informatic at EPITA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me alexis.blanc-feuillet@epita.fr
 
-<!---
-M-Exal/M-Exal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ I'm currently studying computer science at the EPITA engineering school in France. I'm passionate about programming and interested in exploring various fields of computer science such as artificial intelligence, cybersecurity, and software engineering. ✨
+
