@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Exal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-Exal&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=M-Exal&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
