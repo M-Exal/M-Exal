@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Mojjo<br>🌱 EPITA-SPE<br>💬 Ask me about<br>⚡ Stage Mojjo<br>⚡ Stage Partoo
+🔭 I’m currently working with Mojjo<br>🌱 EPITA-SPE<br> Stage Mojjo<br>⚡ Stage Partoo
 
 
 ## 🌐 Socials:
