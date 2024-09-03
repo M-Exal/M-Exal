@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in ETSISI - Madrid<br>🎓 EPITA Spe<br>⚡ Freelance<br>🧑‍💻 Stage Partoo<br>🧑‍💻 Stage Mojjo<br>
+🔭 I’m currently working in EPITA - Paris in alternation with UNOWHY<br>🎓 EPITA Spe<br>⚡ Freelance<br>🧑‍💻 Stage Partoo<br>🧑‍💻 Stage Mojjo<br>
 
 
 ## 🌐 Socials:
