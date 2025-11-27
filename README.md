@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in EPITA - Paris<br>🎓 EPITA Spe<br>⚡ Freelance<br>🧑‍💻 Stage Partoo<br>🧑‍💻 Stage Mojjo<br>
+🔭 I’m currently working in EPITA<br>🎓 EPITA ing2<br>⚡ Freelance<br>🧑‍💻 Stage Partoo<br>🧑‍💻 Stage Mojjo<br>
 
 
 ## 🌐 Socials:
